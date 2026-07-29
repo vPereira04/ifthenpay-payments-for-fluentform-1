@@ -42,7 +42,6 @@ The plugin is designed so site owners can manage payments without requiring deep
    * MB WAY
    * Payshop
    * Credit Card
-   * Cofidis
    * Google Pay
    * Apple Pay
    * Pix
@@ -101,7 +100,6 @@ Any payment method enabled on your ifthenpay Gateway Key, including:
 * MB WAY
 * Payshop
 * Credit Card
-* Cofidis
 * Google Pay
 * Apple Pay
 * Pix
